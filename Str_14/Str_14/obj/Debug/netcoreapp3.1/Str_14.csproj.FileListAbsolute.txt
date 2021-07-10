@@ -1,0 +1,10 @@
+C:\Users\mine-\source\repos\Str_14\Str_14\bin\Debug\netcoreapp3.1\Str_14.exe
+C:\Users\mine-\source\repos\Str_14\Str_14\bin\Debug\netcoreapp3.1\Str_14.deps.json
+C:\Users\mine-\source\repos\Str_14\Str_14\bin\Debug\netcoreapp3.1\Str_14.runtimeconfig.json
+C:\Users\mine-\source\repos\Str_14\Str_14\bin\Debug\netcoreapp3.1\Str_14.runtimeconfig.dev.json
+C:\Users\mine-\source\repos\Str_14\Str_14\bin\Debug\netcoreapp3.1\Str_14.dll
+C:\Users\mine-\source\repos\Str_14\Str_14\bin\Debug\netcoreapp3.1\Str_14.pdb
+C:\Users\mine-\source\repos\Str_14\Str_14\obj\Debug\netcoreapp3.1\Str_14.AssemblyInfoInputs.cache
+C:\Users\mine-\source\repos\Str_14\Str_14\obj\Debug\netcoreapp3.1\Str_14.AssemblyInfo.cs
+C:\Users\mine-\source\repos\Str_14\Str_14\obj\Debug\netcoreapp3.1\Str_14.dll
+C:\Users\mine-\source\repos\Str_14\Str_14\obj\Debug\netcoreapp3.1\Str_14.pdb
