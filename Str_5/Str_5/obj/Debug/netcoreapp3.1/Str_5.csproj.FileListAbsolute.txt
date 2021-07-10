@@ -1,0 +1,10 @@
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\bin\Debug\netcoreapp3.1\Str_5.exe
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\bin\Debug\netcoreapp3.1\Str_5.deps.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\bin\Debug\netcoreapp3.1\Str_5.runtimeconfig.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\bin\Debug\netcoreapp3.1\Str_5.runtimeconfig.dev.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\bin\Debug\netcoreapp3.1\Str_5.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\bin\Debug\netcoreapp3.1\Str_5.pdb
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\obj\Debug\netcoreapp3.1\Str_5.AssemblyInfoInputs.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\obj\Debug\netcoreapp3.1\Str_5.AssemblyInfo.cs
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\obj\Debug\netcoreapp3.1\Str_5.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_5\Str_5\obj\Debug\netcoreapp3.1\Str_5.pdb

@@ -1,0 +1,11 @@
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\bin\Debug\netcoreapp3.1\Str_6.exe
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\bin\Debug\netcoreapp3.1\Str_6.deps.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\bin\Debug\netcoreapp3.1\Str_6.runtimeconfig.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\bin\Debug\netcoreapp3.1\Str_6.runtimeconfig.dev.json
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\bin\Debug\netcoreapp3.1\Str_6.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\bin\Debug\netcoreapp3.1\Str_6.pdb
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\obj\Debug\netcoreapp3.1\Str_6.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\obj\Debug\netcoreapp3.1\Str_6.AssemblyInfoInputs.cache
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\obj\Debug\netcoreapp3.1\Str_6.AssemblyInfo.cs
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\obj\Debug\netcoreapp3.1\Str_6.dll
+C:\Users\mine-\Desktop\Study\Уник\Программы\Строки\Str_6\Str_6\obj\Debug\netcoreapp3.1\Str_6.pdb
